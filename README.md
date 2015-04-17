@@ -35,7 +35,7 @@ Next key | <kbd>j</kbd> or <kbd>down</kbd> |
 Prev key | <kbd>k</kbd> or <kbd>up</kbd> |
 Children | <kbd>l</kbd> or <kbd>right</kbd> |
 Parent | <kbd>h</kbd> or <kbd>left</kbd> |
-Jump to key | <kbd>g</kbd>`<expr>`<kbd>Enter</kbd> |
+Jump to key | <kbd>f</kbd>`<expr>`<kbd>Enter</kbd> |
 Next value | <kbd>w</kbd> |
 Prev value | <kbd>b</kbd> |
 
@@ -58,7 +58,8 @@ Exit | <kbd>q</kbd> or <kbd>Esc</kbd><> |
 - `:echo`
 - `:echoerr`
 - `:exit` or `:quit`
-- `:pwd` or `:cwd`
+- `:pwd` or `:cwd` - current working directory
+- `:pos` - current cursor position
 
 ## TODO
 - scrolling
