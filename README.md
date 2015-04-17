@@ -49,8 +49,9 @@ Insert key after | <kbd>o</kbd> |
 #### Others
 Action | Key | Binding
 ---- | ---- | ----
-Enter command | <kbd>:</kbd>`<command> [arguments]`<kbd>Enter</kbd>
+Transformation | <kbd>=</kbd>`<JMESPath expr>`<kbd>Enter</kbd> |
 Search | <kbd>/</kbd>`<expr>`<kbd>Enter</kbd> |
+Enter command | <kbd>:</kbd>`<command> [arguments]`<kbd>Enter</kbd>
 Exit | <kbd>q</kbd> or <kbd>Esc</kbd><> |
 
 ### Available commands
