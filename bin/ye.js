@@ -10,6 +10,7 @@ var logo = ye.logo.split('\n').map(function(i) {
 
 program
   .version(ye.version)
+  .usage('[options] [file ...]')
   .description(logo + '\n\n  ' + ye.packageInfo.description);
 
 (function run(cli) {
