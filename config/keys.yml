@@ -1,0 +1,15 @@
+engine:
+  - { keys: [ escape, q, C-c ], cmd: exit }
+document:
+  - { keys: [ h, left ], cmd: goParent }
+  - { keys: [ l, right ], cmd: goChildren }
+  - { keys: [ j, down, enter ], cmd: goNextKey }
+  - { keys: [ k, up ], cmd: goPrevKey }
+  - { keys: [ w ], cmd: goNextValue }
+  - { keys: [ b ], cmd: goPrevValue }
+  - { keys: [ x ], cmd: deleteElement }
+  - { keys: [ f ], cmd: goto }
+  - { keys: [ o ], cmd: insertAfter }
+  - { keys: [ c ], cmd: changeElement }
+  - { keys: [ = ], cmd: transform }
+  - { keys: [ / ], cmd: search }
