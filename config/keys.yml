@@ -8,7 +8,7 @@ document:
   - { keys: [ w ], cmd: goNextValue }
   - { keys: [ b ], cmd: goPrevValue }
   - { keys: [ x ], cmd: deleteElement }
-  - { keys: [ f ], cmd: goto }
+  - { keys: [ f ], cmd: gotoKey }
   - { keys: [ o ], cmd: insertAfter }
   - { keys: [ c ], cmd: changeElement }
   - { keys: [ = ], cmd: transform }
