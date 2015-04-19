@@ -1,4 +1,5 @@
 engine:
+  - { keys: [ ':' ], cmd: cmdInput }
   - { keys: [ escape, q, C-c ], cmd: exit }
 document:
   - { keys: [ h, left ], cmd: goParent }
