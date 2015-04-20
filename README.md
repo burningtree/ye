@@ -15,7 +15,7 @@ Vi(m)-like JSON/YAML editor
 ### Installation
 
 ```
-$ npm install -g ye-editor 
+$ npm install -g https://github.com/burningtree/ye.git
 ```
 
 ### Usage
