@@ -1,2 +1,2 @@
-lines: false            # show line numbers
+lines: true             # show line numbers
 config_autosave: true   # TODO local config auto-save
